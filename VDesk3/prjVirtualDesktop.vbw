@@ -1,0 +1,6 @@
+modWindowFunctions = 44, 44, 626, 492, 
+frmSettings = 146, 119, 685, 567, , 154, 154, 687, 602, C
+frmExit = 110, 110, 641, 558, , 110, 110, 641, 558, C
+frmOptions = 0, 0, 0, 0, C, 0, 0, 572, 405, C
+modHotkeyManager = 110, 110, 682, 515, 
+modSpecialFolders = 88, 88, 660, 493, 
